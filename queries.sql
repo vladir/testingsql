@@ -1,1 +1,1 @@
-select * from Person;
+select name, lastname,age from Person where age>=15
